@@ -1,3 +1,4 @@
+![Spendly Homepage](screenshots/Screenshot%202026-10-12%20194350.png)
 # Spendly — Student Expense Manager
 
 ### Spend Smart. Live Better.
